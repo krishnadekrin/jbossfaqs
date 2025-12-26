@@ -1,0 +1,26 @@
+1. what is an application
+2. What are the differences between web application and enterprise application
+3. What is an Application Server
+4. What is the latest version of wildfly and EAP
+5. What  are the differences between wildfly and EAP
+6. What is the minimum jdk version required to install EAP 8.1
+7. How to configure java path in windows
+8. What are the pre-req to check before installing JBOSS AppServer
+9. What are the differences between standalone mode and domain mode
+10. Default ports of jboss
+11. In how many ways we can install jboss
+12. What is the command to create a user in jboss
+13. How to create multiple instances in standalone mode
+14. How to create multiple instances in domain mode
+15. What is the command to start jboss in standalone mode and domain mode
+16. What are the important configuration files in standalone mode and domain mode
+
+
+
+
+
+Linux questions
+----------------
+command to find free disk space
+command to find free memory
+command to fid os version
