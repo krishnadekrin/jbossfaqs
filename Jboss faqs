@@ -27,18 +27,43 @@
 27. How to integrate apache with jboss using mod_cluster
 28. What is a connection pool
 29. What is the difference between background validation and validate on match
+30. Explain request flow
+31. What is heap memory
+32. What is a memory leak
+33. What is a garbage collector. What is minor GC and major GC
+34. What are different GC policies
+35. What is the command to generate a heap dump
+36. What is a thread dump
+37. What is the command to generate a thread dump
+
+
+Apache Questions
+----------------
+1. In how many way we can install apache Http Server
+2. How to install apache in compile mode
+3. What is the command to start and stop apache
+4. What is the imp configuration file in apache
+5. What are the default port numbers of apache
+6. What is forward proxy and reverse proxy
+7. What is URL redirection
+8. What is virtual host in apache
+9. How to configure SSL in apache
 
 
 General Questions
 ------------------
 1. Tell about yourself
 2. What are your daily roles and reponsibilities
-
+3. Explain about your project
+4. Explain about your process
 
 Troubleshooting or scenario based questions
 -------------------------------------------
 1. I am unable to connect to db, how to troubleshoot it
 2. How to troubleshoot 404 error.
+3. How to troubleshoot 500 series errors
+4. How to troubleshoot OOM Error
+5. How to troubleshoot performance issues
 
 
 Linux questions
